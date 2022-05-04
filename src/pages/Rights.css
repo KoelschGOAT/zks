@@ -1,0 +1,19 @@
+.top{
+    padding: 60px;
+}
+.top .cardHolder {
+   justify-content:center;
+    align-items:center;
+  display:flex;
+    font-size: small;
+}
+.top .cardHolder .card{
+    display:flex;
+    margin-top: 10px;
+    
+   
+}
+.top .cardHolder .card Button{
+    margin-bottom: 40px;
+float:right;
+}
